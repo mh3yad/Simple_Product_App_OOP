@@ -1,4 +1,5 @@
-# Read me
+# Simple_Product_App_OOP
+with VueJs as FE framework and pure PHP as BE using OOP approach creating simple product app management to add products with different attributes using MySql DB
 
 ## Project setup
 ```
