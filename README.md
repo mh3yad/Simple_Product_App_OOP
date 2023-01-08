@@ -4,8 +4,6 @@
 ```
 npm install
 ```
-## you can see the site from here
-https://d3672400d9ff-shared.lowcodeunit.com
 
 
 ### Compiles and hot-reloads for development
